@@ -1,0 +1,10 @@
+C:\Users\grishma\source\repos\TempratureConverter.cs\bin\Debug\TempratureConverter.cs.exe.config
+C:\Users\grishma\source\repos\TempratureConverter.cs\bin\Debug\TempratureConverter.cs.exe
+C:\Users\grishma\source\repos\TempratureConverter.cs\bin\Debug\TempratureConverter.cs.pdb
+C:\Users\grishma\source\repos\TempratureConverter.cs\obj\Debug\TempratureConverter.cs.csproj.AssemblyReference.cache
+C:\Users\grishma\source\repos\TempratureConverter.cs\obj\Debug\TempratureConverter.cs.Form1.resources
+C:\Users\grishma\source\repos\TempratureConverter.cs\obj\Debug\TempratureConverter.cs.Properties.Resources.resources
+C:\Users\grishma\source\repos\TempratureConverter.cs\obj\Debug\TempratureConverter.cs.csproj.GenerateResource.cache
+C:\Users\grishma\source\repos\TempratureConverter.cs\obj\Debug\TempratureConverter.cs.csproj.CoreCompileInputs.cache
+C:\Users\grishma\source\repos\TempratureConverter.cs\obj\Debug\TempratureConverter.cs.exe
+C:\Users\grishma\source\repos\TempratureConverter.cs\obj\Debug\TempratureConverter.cs.pdb
